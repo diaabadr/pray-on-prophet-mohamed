@@ -10,7 +10,7 @@ This an Extension remind you to pray on Prophet Muhammed each 30 Minutes
 
 If you have any requirements or dependencies, add a section describing those and how to install and configure them.
 
-![Preview]('images/pray-on-prophet-muhammed.png')
+![Preview]('./images/pray-on-prophet-muhammed.png')
 
 ## Extension Settings
 
