@@ -2,7 +2,7 @@
 
 ## Features
 
-This an Extension remind you to pray on Prophet Muhammed each 30 Minutes
+This an Extension remind you to pray on Prophet Muhammed each 20 Minutes
 
 
 
@@ -22,14 +22,5 @@ This extension contributes the following settings:
 * `myExtension.enable`: Enable/disable this extension.
 * `myExtension.thing`: Set to `blah` to do something.
 
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Contribution
+[Report Issue](https://github.com/diaabadr/pray-on-prophet-mohamed/issues/new)

@@ -1,7 +1,7 @@
 import * as vscode from "vscode";
 
 let prayingInterval: ReturnType<typeof setInterval>;
-const prayingIntervalTime = 1000 * 20;
+const prayingIntervalTime = 1000 * 60 * 20;
 
 export function activate(context: vscode.ExtensionContext) {
   prayingInterval = setInterval(() => {
