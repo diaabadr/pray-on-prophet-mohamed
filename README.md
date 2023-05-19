@@ -1,5 +1,6 @@
 # pray-on-prophet-muhammed 
 
+إِنَّ اللَّهَ وَمَلائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا [الأحزاب:56]
 ## Features
 
 This an Extension remind you to pray on Prophet Muhammed each 20 Minutes
